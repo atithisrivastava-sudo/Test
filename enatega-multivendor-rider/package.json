@@ -24,7 +24,7 @@
   "dependencies": {
     "@apollo/client": "3.13.9",
     "@expo/config-plugins": "~10.0.0",
-    "@expo/metro-config": "~0.20.0",
+    "@expo/metro-config": "~58.0.21",
     "@expo/prebuild-config": "~9.0.0",
     "@expo/vector-icons": "^14.1.0",
     "@gorhom/bottom-sheet": "^5.0.6",
